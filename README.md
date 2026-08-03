@@ -1,6 +1,6 @@
 # TrucoMineiroBot
 
-[![Repo Views](<a href="https://visitorbadge.io/status?path=pbzin%2FTrucoMineiroBot"><img src="https://api.visitorbadge.io/api/visitors?path=pbzin%2FTrucoMineiroBot&labelColor=%23697689&countColor=%2337d67a" /></a>)
+<a href="https://visitorbadge.io/status?path=pbzin%2FTrucoMineiroBot"><img src="https://api.visitorbadge.io/api/visitors?path=pbzin%2FTrucoMineiroBot&labelColor=%23697689&countColor=%2337d67a" /></a>
 
 
 Essa e uma tentativa de criacao de um bot para truco mineiro brasileiro, com automacao de jogadas e inteligencia artificial para analise de jogadas, especificamente para o site trucoon.com.br usando js para ViolentMonkey, e derivados
